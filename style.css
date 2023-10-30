@@ -13,3 +13,19 @@ h1{
     text-align: center;
     margin-bottom: 0;
 }
+img{
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+ul{
+    font-size: 30px;
+    text-align: center;
+}
+li{
+    display: inline;
+}
+.fruit_pizza{
+    margin: 0 40px;
+}
