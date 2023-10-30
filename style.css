@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+    font-size: large;
+    display: block;
+    color: white;
+    background-color: darkblue;
+    padding: 12px;
+    text-align: center;
+    margin-bottom: 0;
+}
